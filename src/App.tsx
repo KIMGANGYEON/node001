@@ -6,7 +6,12 @@ function App() {
       .then((res) => res.json())
       .then((data) => console.log(data));
   });
-  return <h1>hellssso</h1>;
+  return (
+    <>
+      <h2>asd</h2>
+      <h1>asdf</h1>
+    </>
+  );
 }
 
 export default App;
