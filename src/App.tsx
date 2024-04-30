@@ -6,7 +6,7 @@ function App() {
       .then((res) => res.json())
       .then((data) => console.log(data));
   });
-  return <h1>hello</h1>;
+  return <h1>hellssso</h1>;
 }
 
 export default App;
