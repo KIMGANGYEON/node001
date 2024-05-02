@@ -14,6 +14,7 @@
     "cors": "^2.8.5",
     "express": "^4.19.2",
     "http-proxy-middleware": "^3.0.0",
+    "morgan": "^1.10.0",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "react-scripts": "5.0.1",
@@ -25,7 +26,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "dev": "nodemon --exec babel-node JS/server.js"
+    "dev": "nodemon --exec babel-node src/JS/server.js"
   },
   "eslintConfig": {
     "extends": [

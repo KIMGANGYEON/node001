@@ -16,5 +16,5 @@
     "noEmit": true,
     "jsx": "react-jsx"
   },
-  "include": ["src", "JS/setupProxy.js", "JS/server.js"]
+  "include": ["src", "src/JS/setupProxy.js", "src/JS/server.js"]
 }
